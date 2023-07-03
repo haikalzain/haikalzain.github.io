@@ -1,0 +1,1 @@
+# Compression algorithms aren't magic
